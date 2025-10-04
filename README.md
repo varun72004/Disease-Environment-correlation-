@@ -69,8 +69,8 @@ Create a file: .streamlit/secrets.toml
 OPENWEATHER_API_KEY = "your_api_key_here"
 
 Option 2: Environment Variable
-export OPENWEATHER_API_KEY="your_api_key_here"   # Linux/Mac
-setx OPENWEATHER_API_KEY "your_api_key_here"     # Windows
+export OPENWEATHER_API_KEY="9b99c2520d9ddb36ed867de4196e0ede"   # Linux/Mac
+setx OPENWEATHER_API_KEY "9b99c2520d9ddb36ed867de4196e0ede"     # Windows
 
 ▶️ Run the Application
 streamlit run proj.py
