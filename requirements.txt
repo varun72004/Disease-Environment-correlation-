@@ -1,13 +1,11 @@
 streamlit
-streamlit-echarts==0.4.0
+https://github.com/andfanilo/streamlit-echarts/releases/download/v0.4.0/streamlit_echarts-0.4.0-py3-none-any.whl
 pandas
 numpy
 requests
 plotly
 matplotlib
 seaborn
-datetime
-os
-typing
-time
+
+
 
