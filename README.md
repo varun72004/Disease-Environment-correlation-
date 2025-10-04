@@ -66,7 +66,7 @@ Option 1: Streamlit Secrets
 
 Create a file: .streamlit/secrets.toml
 
-OPENWEATHER_API_KEY = "your_api_key_here"
+OPENWEATHER_API_KEY = "9b99c2520d9ddb36ed867de4196e0ede"
 
 Option 2: Environment Variable
 export OPENWEATHER_API_KEY="9b99c2520d9ddb36ed867de4196e0ede"   # Linux/Mac
