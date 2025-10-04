@@ -7,9 +7,9 @@ plotly
 matplotlib
 seaborn
 datetime
-os
 typing
 time
+
 
 
 
