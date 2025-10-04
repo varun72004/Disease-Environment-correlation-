@@ -1,5 +1,5 @@
 streamlit
-streamlit-echarts==0.4.0
+git+https://github.com/andfanilo/streamlit-echarts.git
 pandas
 numpy
 requests
@@ -9,5 +9,5 @@ seaborn
 datetime
 os
 typing
-
 time
+
