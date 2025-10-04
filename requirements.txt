@@ -1,0 +1,12 @@
+streamlit
+streamlit-echarts
+pandas
+numpy
+requests
+plotly
+matplotlib
+seaborn
+datetime
+os
+typing
+time
