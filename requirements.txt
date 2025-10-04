@@ -10,4 +10,5 @@ datetime
 os
 typing
 time
+pip install --upgrade pip
 
