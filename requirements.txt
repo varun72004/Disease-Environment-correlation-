@@ -1,11 +1,16 @@
 streamlit
-from streamlit_echarts import st_echarts
+streamlit-echarts==0.4.0
 pandas
 numpy
 requests
 plotly
 matplotlib
 seaborn
+datetime
+os
+typing
+time
+
 
 
 
