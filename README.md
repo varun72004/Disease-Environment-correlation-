@@ -37,7 +37,7 @@ Personalized health recommendations based on conditions.
 
 🛠️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/env-disease-dashboard.git
+git clone https://github.com/varun72004/Disease-Environment-correlation-
 cd env-disease-dashboard
 
 2. Create & Activate Virtual Environment (Optional but Recommended)
