@@ -1,5 +1,5 @@
 streamlit
-git+https://github.com/andfanilo/streamlit-echarts.git
+streamlit-echarts==0.4.0
 pandas
 numpy
 requests
@@ -10,5 +10,4 @@ datetime
 os
 typing
 time
-pip install --upgrade pip
 
